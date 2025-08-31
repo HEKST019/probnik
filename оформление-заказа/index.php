@@ -209,7 +209,7 @@ require_once '../shop/configDB.php'; // Подключаем БД если ну�
 		<!-- start single menu -->
 		<li id="menu-item-296" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-26 current_page_item menu-item-296 aux-menu-depth-0 aux-menu-root-8 aux-menu-item">
 			<a href="/cart/" class="aux-item-content">
-				<span class="aux-menu-label">Оформление заказа</span>
+				<span class="aux-menu-label">Корзина</span>
 			</a>
 		</li>
 		<!-- end single menu -->
@@ -305,7 +305,43 @@ require_once '../shop/configDB.php'; // Подключаем БД если ну�
   <?php endif; ?>
 
   <?php if (!empty($_SESSION['cart'])): ?>
-      <table>
+    <style>
+    .table-container {
+      margin: 20px 0;
+      overflow-x: auto;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    }
+    .data-table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    .data-table th,
+    .data-table td {
+      padding: 12px 15px;
+      text-align: left;
+      border-bottom: 1px solid #e1e1e1;
+    }
+    .data-table th {
+      background-color: #f8f9fa;
+      font-weight: 600;
+      color: #333;
+      border-top: 1px solid #e1e1e1;
+    }
+    .data-table tr:last-child td {
+      border-bottom: none;
+    }
+    .data-table tr:hover {
+      background-color: #f8f9fa;
+    }
+    .data-table td {
+      color: #555;
+    }
+    </style>
+    <div class="table-container">
+
+      <table class="data-table">
           <thead>
               <tr>
                   <th>Товар</th>
@@ -340,6 +376,7 @@ require_once '../shop/configDB.php'; // Подключаем БД если ну�
               </tr>
           </tfoot>
       </table>
+      </div>
 
   <?php else: ?>
       <h2 class="wp-block-heading has-text-align-center with-empty-cart-icon wc-block-cart__empty-cart__title">Сейчас ваша корзина пуста!</h2>
