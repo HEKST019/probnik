@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Чат поддержка — Столовая</title>
+    <link rel="stylesheet" href="/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Roboto+Slab:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<body class="site-body">
+    <div class="site-wrapper">
+        <!-- Шапка -->
+        <header class="site-header">
+            <div class="header-container">
+                <div class="site-logo">
+                    <h3><a href="/">Столовая</a></h3>
+                </div>
+
+                <nav class="main-nav">
+                    <ul>
+                        <li><a href="/shop/">Магазин</a></li>
+                        <li><a href="/новости-и-акции/">Новости</a></li>
+                        <li><a href="/акции/">Акции</a></li>
+                        <li><a href="/доставка/">Доставка</a></li>
+                        <li><a href="/контакты/">Контакты</a></li>
+                        <li><a href="/о-компании/">О компании</a></li>
+                        <li><a href="/my-account/">Мой аккаунт</a></li>
+                        <li><a href="/cart/">Корзина</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+
+        <!-- Заголовок страницы -->
+        <div class="page-header">
+            <div class="site-wrapper">
+                <div class="breadcrumbs">
+                    <a href="/">Главная</a> > Чат поддержка
+                </div>
+                <h1 class="page-title">Чат поддержка</h1>
+            </div>
+        </div>
+
+        <!-- Основной контент -->
+        <main class="main-content">
+            <div class="site-wrapper">
+                <div class="content-section">
+
+
+
+
+
+
+                  <div class="chat-intro">
+                      <p>Наши администраторы всегда готовы вам помочь разобраться в проблемных вопросах.</p>
+                      <p>Не стесняйтесь задавайте то что вас интересует.</p>
+                  </div>
+
+                  <div class="chat-container">
+                      <div id="flask-chat-container">
+                          <div id="chat-window">
+                              <div id="chat-messages"></div>
+                          </div>
+                          <div id="chat-controls">
+                              <input type="text" id="message-input" placeholder="Напишите сообщение..." autocomplete="off">
+                              <button id="send-btn">
+                                  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                      <line x1="22" y1="2" x2="11" y2="13"></line>
+                                      <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                                  </svg>
+                              </button>
+                          </div>
+                      </div>
+                  </div>
+
+
+
+
+
+
+
+                </div>
+            </div>
+        </main>
+
+        <!-- Подвал -->
+        <footer class="site-footer">
+            <div class="site-wrapper">
+                <div class="footer-content">
+                    <div class="site-logo">
+                        <h3><a href="/">Столовая</a></h3>
+                    </div>
+                    <p class="footer-text">© 2025 Столовая. Дёмин Александр Николаевич. Все права защищены.</p>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <!-- Скрипты для чата -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.4.1/socket.io.min.js"></script>
+<script>
+    // Функция для получения значения куки по имени
+    function getCookie(name) {
+        const value = `; ${document.cookie}`;
+        const parts = value.split(`; ${name}=`);
+        if (parts.length === 2) return parts.pop().split(';').shift();
+        return null;
+    }
+
+    function getUser() {
+        // Получаем имя пользователя из куки 'user'
+        const userName = getCookie('user');
+
+        if (userName) {
+            console.log('Пользователь найден в куки:', userName);
+            return {
+                id: 'user_' + userName,
+                name: userName
+            };
+        }
+
+        // Если куки нет - создаем гостевой аккаунт
+        console.log('Пользователь не авторизован, используется гостевой аккаунт');
+        return {
+            id: 'guest_' + Math.random().toString(36).slice(2, 11),
+            name: 'Гость'
+        };
+    }
+
+    // Инициализация чата
+    function initChat() {
+        try {
+            const currentUser = getUser();
+            console.log('Текущий пользователь чата:', currentUser);
+
+            const socket = io('http://localhost:5000');
+
+            const chat = document.getElementById('chat-messages');
+            const input = document.getElementById('message-input');
+            const btn = document.getElementById('send-btn');
+
+            // Обработчики событий
+            socket.on('connect', () => {
+                console.log('Подключено к чату как', currentUser.name);
+                addSystemMessage('Вы подключились к чату поддержки');
+            });
+
+            socket.on('disconnect', () => {
+                addSystemMessage('Соединение с сервером потеряно');
+            });
+
+            socket.on('connect_error', (error) => {
+                console.error('Ошибка подключения:', error);
+                addSystemMessage('Ошибка подключения к серверу чата');
+            });
+
+            socket.on('message_history', (data) => {
+                data.messages.forEach(msg => {
+                    addMessage(msg, msg.user_id === currentUser.id ? 'sent' : 'received');
+                });
+                scrollToBottom();
+            });
+
+            socket.on('new_message', (msg) => {
+                addMessage(msg, msg.user_id === currentUser.id ? 'sent' : 'received');
+                scrollToBottom();
+            });
+
+            function sendMessage() {
+                const text = input.value.trim();
+                if (text) {
+                    socket.emit('send_message', {
+                        text: text,
+                        sender_name: currentUser.name,
+                        user_id: currentUser.id
+                    });
+                    input.value = '';
+                }
+            }
+
+            function addMessage(msg, type) {
+                const div = document.createElement('div');
+                div.className = `message ${type}`;
+
+                const messageTime = msg.time || new Date().toLocaleTimeString();
+
+                div.innerHTML = `
+                    <div class="message-header">
+                        <strong>${msg.sender || currentUser.name}</strong>
+                        <span class="message-time">${messageTime}</span>
+                    </div>
+                    <div class="message-text">${msg.text}</div>
+                `;
+                chat.appendChild(div);
+                scrollToBottom();
+            }
+
+            function addSystemMessage(text) {
+                const div = document.createElement('div');
+                div.className = 'message system';
+                div.innerHTML = `
+                    <div class="system-text">${text}</div>
+                `;
+                chat.appendChild(div);
+                scrollToBottom();
+            }
+
+            function scrollToBottom() {
+                chat.scrollTop = chat.scrollHeight;
+            }
+
+            btn.addEventListener('click', sendMessage);
+            input.addEventListener('keypress', (e) => {
+                if (e.key === 'Enter') sendMessage();
+            });
+
+            setTimeout(() => {
+                input.focus();
+            }, 1000);
+
+        } catch (error) {
+            console.error('Ошибка инициализации чата:', error);
+            addSystemMessage('Не удалось инициализировать чат');
+        }
+    }
+
+    // Запускаем чат после загрузки страницы
+    window.addEventListener('DOMContentLoaded', initChat);
+</script>
+
+
+
+</body>
+</html>
