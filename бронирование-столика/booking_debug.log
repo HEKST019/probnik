@@ -1,0 +1,1786 @@
+2025-09-26 12:27:30 - Booking request
+2025-09-26 12:27:30 - Created initial bookings file
+2025-09-26 12:27:30 - Input: 
+2025-09-26 12:27:30 - Action: get_bookings
+2025-09-26 12:27:30 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:27:35 - Booking request
+2025-09-26 12:27:35 - Input: 
+2025-09-26 12:27:35 - Action: get_bookings
+2025-09-26 12:27:35 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:27:40 - Booking request
+2025-09-26 12:27:40 - Input: 
+2025-09-26 12:27:40 - Action: get_bookings
+2025-09-26 12:27:40 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:27:45 - Booking request
+2025-09-26 12:27:45 - Input: 
+2025-09-26 12:27:45 - Action: get_bookings
+2025-09-26 12:27:45 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:27:50 - Booking request
+2025-09-26 12:27:50 - Input: 
+2025-09-26 12:27:50 - Action: get_bookings
+2025-09-26 12:27:50 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:27:55 - Booking request
+2025-09-26 12:27:55 - Input: 
+2025-09-26 12:27:55 - Action: get_bookings
+2025-09-26 12:27:55 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:28:00 - Booking request
+2025-09-26 12:28:00 - Input: 
+2025-09-26 12:28:00 - Action: get_bookings
+2025-09-26 12:28:00 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:28:05 - Booking request
+2025-09-26 12:28:05 - Input: 
+2025-09-26 12:28:05 - Action: get_bookings
+2025-09-26 12:28:05 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:28:09 - Booking request
+2025-09-26 12:28:09 - Input: 
+2025-09-26 12:28:09 - Action: get_bookings
+2025-09-26 12:28:09 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:28:14 - Booking request
+2025-09-26 12:28:14 - Input: 
+2025-09-26 12:28:14 - Action: get_bookings
+2025-09-26 12:28:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:28:19 - Booking request
+2025-09-26 12:28:19 - Input: 
+2025-09-26 12:28:19 - Action: get_bookings
+2025-09-26 12:28:19 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:28:24 - Booking request
+2025-09-26 12:28:24 - Input: 
+2025-09-26 12:28:24 - Action: get_bookings
+2025-09-26 12:28:24 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:28:29 - Booking request
+2025-09-26 12:28:29 - Input: 
+2025-09-26 12:28:29 - Action: get_bookings
+2025-09-26 12:28:29 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:28:34 - Booking request
+2025-09-26 12:28:34 - Input: 
+2025-09-26 12:28:34 - Action: get_bookings
+2025-09-26 12:28:34 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:28:38 - Booking request
+2025-09-26 12:28:38 - Input: 
+2025-09-26 12:28:38 - Action: get_bookings
+2025-09-26 12:28:38 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:28:43 - Booking request
+2025-09-26 12:28:43 - Input: 
+2025-09-26 12:28:43 - Action: get_bookings
+2025-09-26 12:28:43 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:28:48 - Booking request
+2025-09-26 12:28:48 - Input: 
+2025-09-26 12:28:48 - Action: get_bookings
+2025-09-26 12:28:48 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:28:53 - Booking request
+2025-09-26 12:28:53 - Input: 
+2025-09-26 12:28:53 - Action: get_bookings
+2025-09-26 12:28:53 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:28:58 - Booking request
+2025-09-26 12:28:58 - Input: 
+2025-09-26 12:28:58 - Action: get_bookings
+2025-09-26 12:28:58 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:29:03 - Booking request
+2025-09-26 12:29:03 - Input: 
+2025-09-26 12:29:03 - Action: get_bookings
+2025-09-26 12:29:03 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:29:08 - Booking request
+2025-09-26 12:29:08 - Input: 
+2025-09-26 12:29:08 - Action: get_bookings
+2025-09-26 12:29:08 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:29:13 - Booking request
+2025-09-26 12:29:13 - Input: 
+2025-09-26 12:29:13 - Action: get_bookings
+2025-09-26 12:29:13 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:29:18 - Booking request
+2025-09-26 12:29:18 - Input: 
+2025-09-26 12:29:18 - Action: get_bookings
+2025-09-26 12:29:18 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:29:23 - Booking request
+2025-09-26 12:29:23 - Input: 
+2025-09-26 12:29:23 - Action: get_bookings
+2025-09-26 12:29:23 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:29:28 - Booking request
+2025-09-26 12:29:28 - Input: 
+2025-09-26 12:29:28 - Action: get_bookings
+2025-09-26 12:29:28 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:29:33 - Booking request
+2025-09-26 12:29:33 - Input: 
+2025-09-26 12:29:33 - Action: get_bookings
+2025-09-26 12:29:33 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:29:38 - Booking request
+2025-09-26 12:29:38 - Input: 
+2025-09-26 12:29:38 - Action: get_bookings
+2025-09-26 12:29:38 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:29:43 - Booking request
+2025-09-26 12:29:43 - Input: 
+2025-09-26 12:29:43 - Action: get_bookings
+2025-09-26 12:29:43 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:29:48 - Booking request
+2025-09-26 12:29:48 - Input: 
+2025-09-26 12:29:48 - Action: get_bookings
+2025-09-26 12:29:48 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:29:51 - Booking request
+2025-09-26 12:29:51 - Input: 
+2025-09-26 12:29:51 - Action: get_bookings
+2025-09-26 12:29:51 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:29:52 - Booking request
+2025-09-26 12:29:52 - Input: 
+2025-09-26 12:29:52 - Action: get_bookings
+2025-09-26 12:29:52 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:29:52 - Booking request
+2025-09-26 12:29:52 - Input: 
+2025-09-26 12:29:52 - Action: get_bookings
+2025-09-26 12:29:52 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:29:52 - Booking request
+2025-09-26 12:29:52 - Input: 
+2025-09-26 12:29:52 - Action: get_bookings
+2025-09-26 12:29:52 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:29:52 - Booking request
+2025-09-26 12:29:52 - Input: 
+2025-09-26 12:29:52 - Action: get_bookings
+2025-09-26 12:29:52 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:29:53 - Booking request
+2025-09-26 12:29:53 - Input: 
+2025-09-26 12:29:53 - Action: get_bookings
+2025-09-26 12:29:53 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:29:53 - Booking request
+2025-09-26 12:29:53 - Input: 
+2025-09-26 12:29:53 - Action: get_bookings
+2025-09-26 12:29:53 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:29:53 - Booking request
+2025-09-26 12:29:53 - Input: 
+2025-09-26 12:29:53 - Action: get_bookings
+2025-09-26 12:29:53 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:29:53 - Booking request
+2025-09-26 12:29:53 - Input: 
+2025-09-26 12:29:53 - Action: get_bookings
+2025-09-26 12:29:53 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:29:58 - Booking request
+2025-09-26 12:29:58 - Input: 
+2025-09-26 12:29:58 - Action: get_bookings
+2025-09-26 12:29:58 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:30:02 - Booking request
+2025-09-26 12:30:02 - Input: 
+2025-09-26 12:30:02 - Action: get_bookings
+2025-09-26 12:30:02 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:30:07 - Booking request
+2025-09-26 12:30:07 - Input: 
+2025-09-26 12:30:07 - Action: get_bookings
+2025-09-26 12:30:07 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:30:12 - Booking request
+2025-09-26 12:30:12 - Input: 
+2025-09-26 12:30:12 - Action: get_bookings
+2025-09-26 12:30:12 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:30:13 - Booking request
+2025-09-26 12:30:13 - Input: 
+2025-09-26 12:30:13 - Action: book_table
+2025-09-26 12:30:13 - Table booked: Столик 4 at 15:00 by Гость
+2025-09-26 12:30:13 - Response: {"success":true,"booking":{"user_id":"guest_s5mq1ymtb","user_name":"\u0413\u043e\u0441\u0442\u044c","booked_at":1758889813,"expires_at":1758890113}}
+2025-09-26 12:30:13 - Booking request
+2025-09-26 12:30:13 - Input: 
+2025-09-26 12:30:13 - Action: get_bookings
+2025-09-26 12:30:13 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:30:14 - Booking request
+2025-09-26 12:30:14 - Input: 
+2025-09-26 12:30:14 - Action: get_bookings
+2025-09-26 12:30:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:30:17 - Booking request
+2025-09-26 12:30:17 - Input: 
+2025-09-26 12:30:17 - Action: get_bookings
+2025-09-26 12:30:17 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:30:22 - Booking request
+2025-09-26 12:30:22 - Input: 
+2025-09-26 12:30:22 - Action: get_bookings
+2025-09-26 12:30:22 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:30:27 - Booking request
+2025-09-26 12:30:27 - Input: 
+2025-09-26 12:30:27 - Action: get_bookings
+2025-09-26 12:30:27 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:30:32 - Booking request
+2025-09-26 12:30:32 - Input: 
+2025-09-26 12:30:32 - Action: get_bookings
+2025-09-26 12:30:32 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:30:37 - Booking request
+2025-09-26 12:30:37 - Input: 
+2025-09-26 12:30:37 - Action: get_bookings
+2025-09-26 12:30:37 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:30:42 - Booking request
+2025-09-26 12:30:42 - Input: 
+2025-09-26 12:30:42 - Action: get_bookings
+2025-09-26 12:30:42 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:30:47 - Booking request
+2025-09-26 12:30:47 - Input: 
+2025-09-26 12:30:47 - Action: get_bookings
+2025-09-26 12:30:47 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:30:52 - Booking request
+2025-09-26 12:30:52 - Input: 
+2025-09-26 12:30:52 - Action: get_bookings
+2025-09-26 12:30:52 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:30:57 - Booking request
+2025-09-26 12:30:57 - Input: 
+2025-09-26 12:30:57 - Action: get_bookings
+2025-09-26 12:30:57 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:31:02 - Booking request
+2025-09-26 12:31:02 - Input: 
+2025-09-26 12:31:02 - Action: get_bookings
+2025-09-26 12:31:02 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:31:07 - Booking request
+2025-09-26 12:31:07 - Input: 
+2025-09-26 12:31:07 - Action: get_bookings
+2025-09-26 12:31:07 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:31:12 - Booking request
+2025-09-26 12:31:12 - Input: 
+2025-09-26 12:31:12 - Action: get_bookings
+2025-09-26 12:31:12 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:31:17 - Booking request
+2025-09-26 12:31:17 - Input: 
+2025-09-26 12:31:17 - Action: get_bookings
+2025-09-26 12:31:17 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:31:22 - Booking request
+2025-09-26 12:31:22 - Input: 
+2025-09-26 12:31:22 - Action: get_bookings
+2025-09-26 12:31:22 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:31:27 - Booking request
+2025-09-26 12:31:27 - Input: 
+2025-09-26 12:31:27 - Action: get_bookings
+2025-09-26 12:31:27 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:31:32 - Booking request
+2025-09-26 12:31:32 - Input: 
+2025-09-26 12:31:32 - Action: get_bookings
+2025-09-26 12:31:32 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:31:37 - Booking request
+2025-09-26 12:31:37 - Input: 
+2025-09-26 12:31:37 - Action: get_bookings
+2025-09-26 12:31:37 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:31:42 - Booking request
+2025-09-26 12:31:42 - Input: 
+2025-09-26 12:31:42 - Action: get_bookings
+2025-09-26 12:31:42 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:31:47 - Booking request
+2025-09-26 12:31:47 - Input: 
+2025-09-26 12:31:47 - Action: get_bookings
+2025-09-26 12:31:47 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:31:52 - Booking request
+2025-09-26 12:31:52 - Input: 
+2025-09-26 12:31:52 - Action: get_bookings
+2025-09-26 12:31:52 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:31:57 - Booking request
+2025-09-26 12:31:57 - Input: 
+2025-09-26 12:31:57 - Action: get_bookings
+2025-09-26 12:31:57 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:32:02 - Booking request
+2025-09-26 12:32:02 - Input: 
+2025-09-26 12:32:02 - Action: get_bookings
+2025-09-26 12:32:02 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:32:07 - Booking request
+2025-09-26 12:32:07 - Input: 
+2025-09-26 12:32:07 - Action: get_bookings
+2025-09-26 12:32:07 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:32:12 - Booking request
+2025-09-26 12:32:12 - Input: 
+2025-09-26 12:32:12 - Action: get_bookings
+2025-09-26 12:32:12 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:32:17 - Booking request
+2025-09-26 12:32:17 - Input: 
+2025-09-26 12:32:17 - Action: get_bookings
+2025-09-26 12:32:17 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:32:22 - Booking request
+2025-09-26 12:32:22 - Input: 
+2025-09-26 12:32:22 - Action: get_bookings
+2025-09-26 12:32:22 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:32:27 - Booking request
+2025-09-26 12:32:27 - Input: 
+2025-09-26 12:32:27 - Action: get_bookings
+2025-09-26 12:32:27 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:32:32 - Booking request
+2025-09-26 12:32:32 - Input: 
+2025-09-26 12:32:32 - Action: get_bookings
+2025-09-26 12:32:32 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:32:37 - Booking request
+2025-09-26 12:32:37 - Input: 
+2025-09-26 12:32:37 - Action: get_bookings
+2025-09-26 12:32:37 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:32:42 - Booking request
+2025-09-26 12:32:42 - Input: 
+2025-09-26 12:32:42 - Action: get_bookings
+2025-09-26 12:32:42 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:32:47 - Booking request
+2025-09-26 12:32:47 - Input: 
+2025-09-26 12:32:47 - Action: get_bookings
+2025-09-26 12:32:47 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:32:52 - Booking request
+2025-09-26 12:32:52 - Input: 
+2025-09-26 12:32:52 - Action: get_bookings
+2025-09-26 12:32:52 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:32:57 - Booking request
+2025-09-26 12:32:57 - Input: 
+2025-09-26 12:32:57 - Action: get_bookings
+2025-09-26 12:32:57 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:33:02 - Booking request
+2025-09-26 12:33:02 - Input: 
+2025-09-26 12:33:02 - Action: get_bookings
+2025-09-26 12:33:02 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:33:07 - Booking request
+2025-09-26 12:33:07 - Input: 
+2025-09-26 12:33:07 - Action: get_bookings
+2025-09-26 12:33:07 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:33:12 - Booking request
+2025-09-26 12:33:12 - Input: 
+2025-09-26 12:33:12 - Action: get_bookings
+2025-09-26 12:33:12 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:33:17 - Booking request
+2025-09-26 12:33:17 - Input: 
+2025-09-26 12:33:17 - Action: get_bookings
+2025-09-26 12:33:17 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:33:22 - Booking request
+2025-09-26 12:33:22 - Input: 
+2025-09-26 12:33:22 - Action: get_bookings
+2025-09-26 12:33:22 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:33:27 - Booking request
+2025-09-26 12:33:27 - Input: 
+2025-09-26 12:33:27 - Action: get_bookings
+2025-09-26 12:33:27 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:33:32 - Booking request
+2025-09-26 12:33:32 - Input: 
+2025-09-26 12:33:32 - Action: get_bookings
+2025-09-26 12:33:32 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:33:37 - Booking request
+2025-09-26 12:33:37 - Input: 
+2025-09-26 12:33:37 - Action: get_bookings
+2025-09-26 12:33:37 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:33:42 - Booking request
+2025-09-26 12:33:42 - Input: 
+2025-09-26 12:33:42 - Action: get_bookings
+2025-09-26 12:33:42 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:33:47 - Booking request
+2025-09-26 12:33:47 - Input: 
+2025-09-26 12:33:47 - Action: get_bookings
+2025-09-26 12:33:47 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:33:52 - Booking request
+2025-09-26 12:33:52 - Input: 
+2025-09-26 12:33:52 - Action: get_bookings
+2025-09-26 12:33:52 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:33:57 - Booking request
+2025-09-26 12:33:57 - Input: 
+2025-09-26 12:33:57 - Action: get_bookings
+2025-09-26 12:33:57 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:34:02 - Booking request
+2025-09-26 12:34:02 - Input: 
+2025-09-26 12:34:02 - Action: get_bookings
+2025-09-26 12:34:02 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:34:07 - Booking request
+2025-09-26 12:34:07 - Input: 
+2025-09-26 12:34:07 - Action: get_bookings
+2025-09-26 12:34:07 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:34:12 - Booking request
+2025-09-26 12:34:12 - Input: 
+2025-09-26 12:34:12 - Action: get_bookings
+2025-09-26 12:34:12 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:34:17 - Booking request
+2025-09-26 12:34:17 - Input: 
+2025-09-26 12:34:17 - Action: get_bookings
+2025-09-26 12:34:17 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:34:22 - Booking request
+2025-09-26 12:34:22 - Input: 
+2025-09-26 12:34:22 - Action: get_bookings
+2025-09-26 12:34:22 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:34:27 - Booking request
+2025-09-26 12:34:27 - Input: 
+2025-09-26 12:34:27 - Action: get_bookings
+2025-09-26 12:34:27 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:34:32 - Booking request
+2025-09-26 12:34:32 - Input: 
+2025-09-26 12:34:32 - Action: get_bookings
+2025-09-26 12:34:32 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:34:37 - Booking request
+2025-09-26 12:34:37 - Input: 
+2025-09-26 12:34:37 - Action: get_bookings
+2025-09-26 12:34:37 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:34:42 - Booking request
+2025-09-26 12:34:42 - Input: 
+2025-09-26 12:34:42 - Action: get_bookings
+2025-09-26 12:34:42 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:34:47 - Booking request
+2025-09-26 12:34:47 - Input: 
+2025-09-26 12:34:47 - Action: get_bookings
+2025-09-26 12:34:47 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:34:52 - Booking request
+2025-09-26 12:34:52 - Input: 
+2025-09-26 12:34:52 - Action: get_bookings
+2025-09-26 12:34:52 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:34:57 - Booking request
+2025-09-26 12:34:57 - Input: 
+2025-09-26 12:34:57 - Action: get_bookings
+2025-09-26 12:34:57 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:35:02 - Booking request
+2025-09-26 12:35:02 - Input: 
+2025-09-26 12:35:02 - Action: get_bookings
+2025-09-26 12:35:02 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:35:07 - Booking request
+2025-09-26 12:35:07 - Input: 
+2025-09-26 12:35:07 - Action: get_bookings
+2025-09-26 12:35:07 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:35:12 - Booking request
+2025-09-26 12:35:12 - Input: 
+2025-09-26 12:35:12 - Action: get_bookings
+2025-09-26 12:35:12 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:35:17 - Booking request
+2025-09-26 12:35:17 - Input: 
+2025-09-26 12:35:17 - Action: get_bookings
+2025-09-26 12:35:17 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:35:22 - Booking request
+2025-09-26 12:35:22 - Input: 
+2025-09-26 12:35:22 - Action: get_bookings
+2025-09-26 12:35:22 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:35:27 - Booking request
+2025-09-26 12:35:27 - Input: 
+2025-09-26 12:35:27 - Action: get_bookings
+2025-09-26 12:35:27 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:35:32 - Booking request
+2025-09-26 12:35:32 - Input: 
+2025-09-26 12:35:32 - Action: get_bookings
+2025-09-26 12:35:32 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:35:37 - Booking request
+2025-09-26 12:35:37 - Input: 
+2025-09-26 12:35:37 - Action: get_bookings
+2025-09-26 12:35:37 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:35:42 - Booking request
+2025-09-26 12:35:42 - Input: 
+2025-09-26 12:35:42 - Action: get_bookings
+2025-09-26 12:35:42 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:35:47 - Booking request
+2025-09-26 12:35:47 - Input: 
+2025-09-26 12:35:47 - Action: get_bookings
+2025-09-26 12:35:47 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:35:48 - Booking request
+2025-09-26 12:35:48 - Input: 
+2025-09-26 12:35:48 - Action: get_bookings
+2025-09-26 12:35:48 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:35:49 - Booking request
+2025-09-26 12:35:49 - Input: 
+2025-09-26 12:35:49 - Action: get_bookings
+2025-09-26 12:35:49 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:35:49 - Booking request
+2025-09-26 12:35:49 - Input: 
+2025-09-26 12:35:49 - Action: get_bookings
+2025-09-26 12:35:49 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:35:49 - Booking request
+2025-09-26 12:35:49 - Input: 
+2025-09-26 12:35:49 - Action: get_bookings
+2025-09-26 12:35:49 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:35:54 - Booking request
+2025-09-26 12:35:54 - Input: 
+2025-09-26 12:35:54 - Action: get_bookings
+2025-09-26 12:35:54 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:35:59 - Booking request
+2025-09-26 12:35:59 - Input: 
+2025-09-26 12:35:59 - Action: get_bookings
+2025-09-26 12:35:59 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:36:04 - Booking request
+2025-09-26 12:36:04 - Input: 
+2025-09-26 12:36:04 - Action: get_bookings
+2025-09-26 12:36:04 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:36:09 - Booking request
+2025-09-26 12:36:09 - Input: 
+2025-09-26 12:36:09 - Action: get_bookings
+2025-09-26 12:36:09 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:36:14 - Booking request
+2025-09-26 12:36:14 - Input: 
+2025-09-26 12:36:14 - Action: get_bookings
+2025-09-26 12:36:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:36:19 - Booking request
+2025-09-26 12:36:19 - Input: 
+2025-09-26 12:36:19 - Action: get_bookings
+2025-09-26 12:36:19 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:36:24 - Booking request
+2025-09-26 12:36:24 - Input: 
+2025-09-26 12:36:24 - Action: get_bookings
+2025-09-26 12:36:24 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:36:29 - Booking request
+2025-09-26 12:36:29 - Input: 
+2025-09-26 12:36:29 - Action: get_bookings
+2025-09-26 12:36:29 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:36:31 - Booking request
+2025-09-26 12:36:31 - Input: 
+2025-09-26 12:36:31 - Action: get_bookings
+2025-09-26 12:36:31 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:36:32 - Booking request
+2025-09-26 12:36:32 - Input: 
+2025-09-26 12:36:32 - Action: get_bookings
+2025-09-26 12:36:32 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:36:33 - Booking request
+2025-09-26 12:36:33 - Input: 
+2025-09-26 12:36:33 - Action: get_bookings
+2025-09-26 12:36:33 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:36:33 - Booking request
+2025-09-26 12:36:33 - Input: 
+2025-09-26 12:36:33 - Action: get_bookings
+2025-09-26 12:36:33 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:36:38 - Booking request
+2025-09-26 12:36:38 - Input: 
+2025-09-26 12:36:38 - Action: get_bookings
+2025-09-26 12:36:38 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:36:39 - Booking request
+2025-09-26 12:36:39 - Input: 
+2025-09-26 12:36:39 - Action: get_bookings
+2025-09-26 12:36:39 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:36:44 - Booking request
+2025-09-26 12:36:44 - Input: 
+2025-09-26 12:36:44 - Action: get_bookings
+2025-09-26 12:36:44 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:36:45 - Booking request
+2025-09-26 12:36:45 - Input: 
+2025-09-26 12:36:45 - Action: get_bookings
+2025-09-26 12:36:45 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:36:46 - Booking request
+2025-09-26 12:36:46 - Input: 
+2025-09-26 12:36:46 - Action: get_bookings
+2025-09-26 12:36:46 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:36:49 - Booking request
+2025-09-26 12:36:49 - Input: 
+2025-09-26 12:36:49 - Action: get_bookings
+2025-09-26 12:36:49 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:36:51 - Booking request
+2025-09-26 12:36:51 - Input: 
+2025-09-26 12:36:51 - Action: get_bookings
+2025-09-26 12:36:51 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:36:54 - Booking request
+2025-09-26 12:36:54 - Input: 
+2025-09-26 12:36:54 - Action: get_bookings
+2025-09-26 12:36:54 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:36:56 - Booking request
+2025-09-26 12:36:56 - Input: 
+2025-09-26 12:36:56 - Action: get_bookings
+2025-09-26 12:36:56 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:36:59 - Booking request
+2025-09-26 12:36:59 - Input: 
+2025-09-26 12:36:59 - Action: get_bookings
+2025-09-26 12:36:59 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:37:01 - Booking request
+2025-09-26 12:37:01 - Input: 
+2025-09-26 12:37:01 - Action: get_bookings
+2025-09-26 12:37:01 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:37:04 - Booking request
+2025-09-26 12:37:04 - Input: 
+2025-09-26 12:37:04 - Action: get_bookings
+2025-09-26 12:37:04 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:37:06 - Booking request
+2025-09-26 12:37:06 - Input: 
+2025-09-26 12:37:06 - Action: get_bookings
+2025-09-26 12:37:06 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:37:09 - Booking request
+2025-09-26 12:37:09 - Input: 
+2025-09-26 12:37:09 - Action: get_bookings
+2025-09-26 12:37:09 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:37:11 - Booking request
+2025-09-26 12:37:11 - Input: 
+2025-09-26 12:37:11 - Action: get_bookings
+2025-09-26 12:37:11 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:37:14 - Booking request
+2025-09-26 12:37:14 - Input: 
+2025-09-26 12:37:14 - Action: get_bookings
+2025-09-26 12:37:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:37:16 - Booking request
+2025-09-26 12:37:16 - Input: 
+2025-09-26 12:37:16 - Action: get_bookings
+2025-09-26 12:37:16 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:37:16 - Booking request
+2025-09-26 12:37:16 - Input: 
+2025-09-26 12:37:16 - Action: get_bookings
+2025-09-26 12:37:16 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:37:21 - Booking request
+2025-09-26 12:37:21 - Input: 
+2025-09-26 12:37:21 - Action: get_bookings
+2025-09-26 12:37:21 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:37:21 - Booking request
+2025-09-26 12:37:21 - Input: 
+2025-09-26 12:37:21 - Action: get_bookings
+2025-09-26 12:37:21 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:37:26 - Booking request
+2025-09-26 12:37:26 - Input: 
+2025-09-26 12:37:26 - Action: get_bookings
+2025-09-26 12:37:26 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:37:26 - Booking request
+2025-09-26 12:37:26 - Input: 
+2025-09-26 12:37:26 - Action: get_bookings
+2025-09-26 12:37:26 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:37:27 - Booking request
+2025-09-26 12:37:27 - Input: 
+2025-09-26 12:37:27 - Action: book_table
+2025-09-26 12:37:27 - Table booked: Столик 6 at 14:00 by Гость
+2025-09-26 12:37:27 - Response: {"success":true,"booking":{"user_id":"guest_xgdpvc0gj","user_name":"\u0413\u043e\u0441\u0442\u044c","booked_at":1758890247,"expires_at":1758890547}}
+2025-09-26 12:37:27 - Booking request
+2025-09-26 12:37:27 - Input: 
+2025-09-26 12:37:27 - Action: get_bookings
+2025-09-26 12:37:27 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:37:29 - Booking request
+2025-09-26 12:37:29 - Input: 
+2025-09-26 12:37:29 - Action: get_bookings
+2025-09-26 12:37:29 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:37:31 - Booking request
+2025-09-26 12:37:31 - Input: 
+2025-09-26 12:37:31 - Action: get_bookings
+2025-09-26 12:37:31 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:37:31 - Booking request
+2025-09-26 12:37:31 - Input: 
+2025-09-26 12:37:31 - Action: get_bookings
+2025-09-26 12:37:31 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:37:36 - Booking request
+2025-09-26 12:37:36 - Input: 
+2025-09-26 12:37:36 - Action: get_bookings
+2025-09-26 12:37:36 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:37:36 - Booking request
+2025-09-26 12:37:36 - Input: 
+2025-09-26 12:37:36 - Action: get_bookings
+2025-09-26 12:37:36 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:37:41 - Booking request
+2025-09-26 12:37:41 - Input: 
+2025-09-26 12:37:41 - Action: get_bookings
+2025-09-26 12:37:41 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:37:41 - Booking request
+2025-09-26 12:37:41 - Input: 
+2025-09-26 12:37:41 - Action: get_bookings
+2025-09-26 12:37:41 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:37:46 - Booking request
+2025-09-26 12:37:46 - Input: 
+2025-09-26 12:37:46 - Action: get_bookings
+2025-09-26 12:37:46 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:37:47 - Booking request
+2025-09-26 12:37:47 - Input: 
+2025-09-26 12:37:47 - Action: get_bookings
+2025-09-26 12:37:47 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:37:52 - Booking request
+2025-09-26 12:37:52 - Input: 
+2025-09-26 12:37:52 - Action: get_bookings
+2025-09-26 12:37:52 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:37:56 - Booking request
+2025-09-26 12:37:56 - Input: 
+2025-09-26 12:37:56 - Action: get_bookings
+2025-09-26 12:37:56 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:37:57 - Booking request
+2025-09-26 12:37:57 - Input: 
+2025-09-26 12:37:57 - Action: get_bookings
+2025-09-26 12:37:57 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:38:01 - Booking request
+2025-09-26 12:38:01 - Input: 
+2025-09-26 12:38:01 - Action: get_bookings
+2025-09-26 12:38:01 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:38:02 - Booking request
+2025-09-26 12:38:02 - Input: 
+2025-09-26 12:38:02 - Action: get_bookings
+2025-09-26 12:38:02 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:38:06 - Booking request
+2025-09-26 12:38:06 - Input: 
+2025-09-26 12:38:06 - Action: get_bookings
+2025-09-26 12:38:06 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:38:07 - Booking request
+2025-09-26 12:38:07 - Input: 
+2025-09-26 12:38:07 - Action: get_bookings
+2025-09-26 12:38:07 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:38:11 - Booking request
+2025-09-26 12:38:11 - Input: 
+2025-09-26 12:38:11 - Action: get_bookings
+2025-09-26 12:38:11 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:38:12 - Booking request
+2025-09-26 12:38:12 - Input: 
+2025-09-26 12:38:12 - Action: get_bookings
+2025-09-26 12:38:12 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:38:16 - Booking request
+2025-09-26 12:38:16 - Input: 
+2025-09-26 12:38:16 - Action: get_bookings
+2025-09-26 12:38:16 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:38:17 - Booking request
+2025-09-26 12:38:17 - Input: 
+2025-09-26 12:38:17 - Action: get_bookings
+2025-09-26 12:38:17 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:38:21 - Booking request
+2025-09-26 12:38:21 - Input: 
+2025-09-26 12:38:21 - Action: get_bookings
+2025-09-26 12:38:21 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:38:22 - Booking request
+2025-09-26 12:38:22 - Input: 
+2025-09-26 12:38:22 - Action: get_bookings
+2025-09-26 12:38:22 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:38:26 - Booking request
+2025-09-26 12:38:26 - Input: 
+2025-09-26 12:38:26 - Action: get_bookings
+2025-09-26 12:38:26 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:38:27 - Booking request
+2025-09-26 12:38:27 - Input: 
+2025-09-26 12:38:27 - Action: get_bookings
+2025-09-26 12:38:27 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:38:31 - Booking request
+2025-09-26 12:38:31 - Input: 
+2025-09-26 12:38:31 - Action: get_bookings
+2025-09-26 12:38:31 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:38:32 - Booking request
+2025-09-26 12:38:32 - Input: 
+2025-09-26 12:38:32 - Action: get_bookings
+2025-09-26 12:38:32 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:38:36 - Booking request
+2025-09-26 12:38:36 - Input: 
+2025-09-26 12:38:36 - Action: get_bookings
+2025-09-26 12:38:36 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:38:37 - Booking request
+2025-09-26 12:38:37 - Input: 
+2025-09-26 12:38:37 - Action: get_bookings
+2025-09-26 12:38:37 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:38:41 - Booking request
+2025-09-26 12:38:41 - Input: 
+2025-09-26 12:38:41 - Action: get_bookings
+2025-09-26 12:38:41 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:38:42 - Booking request
+2025-09-26 12:38:42 - Input: 
+2025-09-26 12:38:42 - Action: get_bookings
+2025-09-26 12:38:42 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:38:46 - Booking request
+2025-09-26 12:38:46 - Input: 
+2025-09-26 12:38:46 - Action: get_bookings
+2025-09-26 12:38:46 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:38:51 - Booking request
+2025-09-26 12:38:51 - Input: 
+2025-09-26 12:38:51 - Action: get_bookings
+2025-09-26 12:38:51 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:39:14 - Booking request
+2025-09-26 12:39:14 - Input: 
+2025-09-26 12:39:14 - Input: 
+2025-09-26 12:39:14 - Action: get_bookings
+2025-09-26 12:39:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:39:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:40:14 - Booking request
+2025-09-26 12:40:14 - Booking request
+2025-09-26 12:40:14 - Input: 
+2025-09-26 12:40:14 - Action: get_bookings
+2025-09-26 12:40:14 - Input: 
+2025-09-26 12:40:14 - Action: get_bookings
+2025-09-26 12:40:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:40:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:41:14 - Booking request
+2025-09-26 12:41:14 - Booking request
+2025-09-26 12:41:14 - Input: 
+2025-09-26 12:41:14 - Action: get_bookings
+2025-09-26 12:41:14 - Input: 
+2025-09-26 12:41:14 - Action: get_bookings
+2025-09-26 12:41:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:41:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:42:14 - Booking request
+2025-09-26 12:42:14 - Booking request
+2025-09-26 12:42:14 - Input: 
+2025-09-26 12:42:14 - Input: 
+2025-09-26 12:42:14 - Action: get_bookings
+2025-09-26 12:42:14 - Action: get_bookings
+2025-09-26 12:42:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:42:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:43:14 - Booking request
+2025-09-26 12:43:14 - Booking request
+2025-09-26 12:43:14 - Input: 
+2025-09-26 12:43:14 - Input: 
+2025-09-26 12:43:14 - Action: get_bookings
+2025-09-26 12:43:14 - Action: get_bookings
+2025-09-26 12:43:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:43:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:44:14 - Booking request
+2025-09-26 12:44:14 - Input: 
+2025-09-26 12:44:14 - Booking request
+2025-09-26 12:44:14 - Action: get_bookings
+2025-09-26 12:44:14 - Input: 
+2025-09-26 12:44:14 - Action: get_bookings
+true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:44:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:45:14 - Booking request
+2025-09-26 12:45:14 - Booking request
+2025-09-26 12:45:14 - Input: 
+2025-09-26 12:45:14 - Input: 
+2025-09-26 12:45:14 - Action: get_bookings
+2025-09-26 12:45:14 - Action: get_bookings
+2025-09-26 12:45:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:45:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:46:14 - Booking request
+2025-09-26 12:46:14 - Booking request
+2025-09-26 12:46:14 - Input: 
+2025-09-26 12:46:14 - Action: get_bookings
+2025-09-26 12:46:14 - Input: 
+2025-09-26 12:46:14 - Action: get_bookings
+2025-09-26 12:46:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:46:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:47:14 - Booking request
+2025-09-26 12:47:14 - Booking request
+2025-09-26 12:47:14 - Input: 
+2025-09-26 12:47:14 - Input: 
+2025-09-26 12:47:14 - Action: get_bookings
+2025-09-26 12:47:14 - Action: get_bookings
+2025-09-26 12:47:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:47:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:48:14 - Booking request
+2025-09-26 12:48:14 - Booking request
+2025-09-26 12:48:14 - Action: get_bookings
+2025-09-26 12:48:14 - Input: 
+2025-09-26 12:48:14 - Action: get_bookings
+true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:48:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:49:14 - Booking request
+2025-09-26 12:49:14 - Input: 
+2025-09-26 12:49:14 - Booking request
+ings
+2025-09-26 12:49:14 - Input: 
+2025-09-26 12:49:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:49:14 - Action: get_bookings
+2025-09-26 12:49:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:50:14 - Booking request
+2025-09-26 12:50:14 - Input: 
+2025-09-26 12:50:14 - Action: get_bookings
+2025-09-26 12:50:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:50:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:51:14 - Booking request
+2025-09-26 12:51:14 - Input: 
+2025-09-26 12:51:14 - Action: get_bookings
+2025-09-26 12:51:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:51:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:52:14 - Booking request
+2025-09-26 12:52:14 - Input: 
+2025-09-26 12:52:14 - Action: get_bookings
+2025-09-26 12:52:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:52:14 - Booking request
+2025-09-26 12:52:14 - Input: 
+2025-09-26 12:52:14 - Action: get_bookings
+2025-09-26 12:52:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:53:14 - Booking request
+2025-09-26 12:53:14 - Booking request
+2025-09-26 12:53:14 - Input: 
+2025-09-26 12:53:14 - Input: 
+2025-09-26 12:53:14 - Action: get_bookings
+2025-09-26 12:53:14 - Action: get_bookings
+2025-09-26 12:53:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:53:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:54:14 - Booking request
+2025-09-26 12:54:14 - Input: 
+2025-09-26 12:54:14 - Input: 
+2025-09-26 12:54:14 - Action: get_bookings
+2025-09-26 12:54:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:54:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:55:14 - Booking request
+2025-09-26 12:55:14 - Booking request
+2025-09-26 12:55:14 - Input: 
+2025-09-26 12:55:14 - Input: 
+2025-09-26 12:55:14 - Action: get_bookings
+2025-09-26 12:55:14 - Action: get_bookings
+2025-09-26 12:55:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:55:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:56:14 - Booking request
+2025-09-26 12:56:14 - Booking request
+2025-09-26 12:56:14 - Input: 
+2025-09-26 12:56:14 - Input: 
+2025-09-26 12:56:14 - Action: get_bookings
+2025-09-26 12:56:14 - Action: get_bookings
+2025-09-26 12:56:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:56:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:57:14 - Booking request
+2025-09-26 12:57:14 - Booking request
+2025-09-26 12:57:14 - Input: 
+2025-09-26 12:57:14 - Input: 
+2025-09-26 12:57:14 - Action: get_bookings
+2025-09-26 12:57:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:58:14 - Booking request
+2025-09-26 12:58:14 - Input: 
+2025-09-26 12:58:14 - Input: 
+2025-09-26 12:58:14 - Action: get_bookings
+2025-09-26 12:58:14 - Action: get_bookings
+2025-09-26 12:58:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:58:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:59:14 - Booking request
+2025-09-26 12:59:14 - Input: 
+2025-09-26 12:59:14 - Action: get_bookings
+2025-09-26 12:59:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 12:59:14 - Booking request
+2025-09-26 12:59:14 - Input: 
+2025-09-26 12:59:14 - Action: get_bookings
+2025-09-26 12:59:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:00:14 - Booking request
+2025-09-26 13:00:14 - Booking request
+2025-09-26 13:00:14 - Input: 
+2025-09-26 13:00:14 - Action: get_bookings
+2025-09-26 13:00:14 - Action: get_bookings
+2025-09-26 13:00:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:00:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:01:14 - Booking request
+2025-09-26 13:01:14 - Input: 
+2025-09-26 13:01:14 - Action: get_bookings
+2025-09-26 13:01:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:01:14 - Booking request
+2025-09-26 13:01:14 - Input: 
+2025-09-26 13:01:14 - Action: get_bookings
+2025-09-26 13:01:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:02:14 - Booking request
+2025-09-26 13:02:14 - Booking request
+2025-09-26 13:02:14 - Input: 
+2025-09-26 13:02:14 - Input: 
+2025-09-26 13:02:14 - Action: get_bookings
+2025-09-26 13:02:14 - Action: get_bookings
+2025-09-26 13:02:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:02:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:03:14 - Booking request
+2025-09-26 13:03:14 - Booking request
+2025-09-26 13:03:14 - Input: 
+2025-09-26 13:03:14 - Action: get_bookings
+2025-09-26 13:03:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:04:14 - Booking request
+2025-09-26 13:04:14 - Booking request
+2025-09-26 13:04:14 - Input: 
+2025-09-26 13:04:14 - Action: get_bookings
+2025-09-26 13:04:14 - Action: get_bookings
+2025-09-26 13:04:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:04:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:05:14 - Booking request
+2025-09-26 13:05:14 - Input: 
+2025-09-26 13:05:14 - Booking request
+2025-09-26 13:05:14 - Action: get_bookings
+2025-09-26 13:05:14 - Input: 
+2025-09-26 13:05:14 - Action: get_bookings
+true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:05:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:06:14 - Booking request
+2025-09-26 13:06:14 - Input: 
+2025-09-26 13:06:14 - Action: get_bookings
+2025-09-26 13:06:14 - Booking request
+2025-09-26 13:06:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:06:14 - Input: 
+2025-09-26 13:06:14 - Action: get_bookings
+2025-09-26 13:06:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:07:14 - Booking request
+2025-09-26 13:07:14 - Input: 
+2025-09-26 13:07:14 - Input: 
+2025-09-26 13:07:14 - Action: get_bookings
+2025-09-26 13:07:14 - Action: get_bookings
+2025-09-26 13:07:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:07:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:08:14 - Booking request
+2025-09-26 13:08:14 - Booking request
+2025-09-26 13:08:14 - Input: 
+2025-09-26 13:08:14 - Input: 
+2025-09-26 13:08:14 - Action: get_bookings
+2025-09-26 13:08:14 - Action: get_bookings
+2025-09-26 13:08:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:09:14 - Booking request
+2025-09-26 13:09:14 - Input: 
+2025-09-26 13:09:14 - Action: get_bookings
+2025-09-26 13:09:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:09:14 - Booking request
+2025-09-26 13:09:14 - Input: 
+2025-09-26 13:09:14 - Action: get_bookings
+2025-09-26 13:09:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:10:14 - Booking request
+2025-09-26 13:10:14 - Input: 
+2025-09-26 13:10:14 - Input: 
+2025-09-26 13:10:14 - Action: get_bookings
+2025-09-26 13:10:14 - Action: get_bookings
+2025-09-26 13:10:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:10:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:11:14 - Booking request
+2025-09-26 13:11:14 - Booking request
+2025-09-26 13:11:14 - Input: 
+2025-09-26 13:11:14 - Input: 
+2025-09-26 13:11:14 - Action: get_bookings
+2025-09-26 13:11:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:11:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:12:14 - Booking request
+2025-09-26 13:12:14 - Input: 
+2025-09-26 13:12:14 - Input: 
+2025-09-26 13:12:14 - Action: get_bookings
+2025-09-26 13:12:14 - Action: get_bookings
+2025-09-26 13:12:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:12:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:13:14 - Booking request
+2025-09-26 13:13:14 - Booking request
+2025-09-26 13:13:14 - Input: 
+2025-09-26 13:13:14 - Input: 
+2025-09-26 13:13:14 - Action: get_bookings
+2025-09-26 13:13:14 - Action: get_bookings
+2025-09-26 13:13:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:13:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:14:14 - Booking request
+2025-09-26 13:14:14 - Input: 
+2025-09-26 13:14:14 - Booking request
+2025-09-26 13:14:14 - Action: get_bookings
+2025-09-26 13:14:14 - Input: 
+2025-09-26 13:14:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:14:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:15:14 - Booking request
+2025-09-26 13:15:14 - Input: 
+2025-09-26 13:15:14 - Action: get_bookings
+2025-09-26 13:15:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:16:14 - Booking request
+2025-09-26 13:16:14 - Input: 
+2025-09-26 13:16:14 - Action: get_bookings
+2025-09-26 13:16:14 - Action: get_bookings
+2025-09-26 13:16:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:16:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:17:14 - Booking request
+2025-09-26 13:17:14 - Booking request
+2025-09-26 13:17:14 - Input: 
+2025-09-26 13:17:14 - Input: 
+2025-09-26 13:17:14 - Action: get_bookings
+2025-09-26 13:17:14 - Action: get_bookings
+2025-09-26 13:17:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:17:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:18:14 - Booking request
+2025-09-26 13:18:14 - Booking request
+2025-09-26 13:18:14 - Input: 
+2025-09-26 13:18:14 - Action: get_bookings
+2025-09-26 13:18:14 - Action: get_bookings
+2025-09-26 13:18:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:18:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:19:14 - Booking request
+2025-09-26 13:19:14 - Input: 
+2025-09-26 13:19:14 - Action: get_bookings
+2025-09-26 13:19:14 - Input: 
+2025-09-26 13:19:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:19:14 - Action: get_bookings
+2025-09-26 13:19:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:20:14 - Booking request
+2025-09-26 13:20:14 - Input: 
+2025-09-26 13:20:14 - Action: get_bookings
+2025-09-26 13:20:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:20:14 - Booking request
+2025-09-26 13:20:14 - Input: 
+2025-09-26 13:20:14 - Action: get_bookings
+2025-09-26 13:20:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:21:14 - Booking request
+2025-09-26 13:21:14 - Input: 
+2025-09-26 13:21:14 - Action: get_bookings
+2025-09-26 13:21:14 - Booking request
+2025-09-26 13:21:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:21:14 - Input: 
+2025-09-26 13:21:14 - Action: get_bookings
+2025-09-26 13:21:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:22:14 - Booking request
+2025-09-26 13:22:15 - Input: 
+2025-09-26 13:22:15 - Action: get_bookings
+2025-09-26 13:22:15 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:23:14 - Booking request
+2025-09-26 13:23:14 - Input: 
+2025-09-26 13:23:14 - Action: get_bookings
+2025-09-26 13:23:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:24:14 - Booking request
+2025-09-26 13:24:14 - Input: 
+2025-09-26 13:24:14 - Action: get_bookings
+2025-09-26 13:24:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:25:14 - Booking request
+2025-09-26 13:25:14 - Input: 
+2025-09-26 13:25:14 - Action: get_bookings
+2025-09-26 13:25:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:26:14 - Booking request
+2025-09-26 13:26:14 - Input: 
+2025-09-26 13:26:14 - Action: get_bookings
+2025-09-26 13:26:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:27:14 - Booking request
+2025-09-26 13:27:14 - Input: 
+2025-09-26 13:27:14 - Action: get_bookings
+2025-09-26 13:27:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:28:15 - Booking request
+2025-09-26 13:28:15 - Input: 
+2025-09-26 13:28:15 - Action: get_bookings
+2025-09-26 13:28:15 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:28:19 - Booking request
+2025-09-26 13:28:19 - Input: 
+2025-09-26 13:28:19 - Action: get_bookings
+2025-09-26 13:28:19 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:28:21 - Booking request
+2025-09-26 13:28:21 - Input: 
+2025-09-26 13:28:21 - Action: get_bookings
+2025-09-26 13:28:21 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:28:46 - Booking request
+2025-09-26 13:28:46 - Input: 
+2025-09-26 13:28:46 - Action: get_bookings
+2025-09-26 13:28:46 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:39:58 - Booking request
+2025-09-26 13:39:58 - Input: 
+2025-09-26 13:39:58 - Action: get_bookings
+2025-09-26 13:39:58 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:40:01 - Booking request
+2025-09-26 13:40:01 - Input: 
+2025-09-26 13:40:01 - Action: get_bookings
+2025-09-26 13:40:01 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:40:06 - Booking request
+2025-09-26 13:40:06 - Input: 
+2025-09-26 13:40:06 - Action: get_bookings
+2025-09-26 13:40:06 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:40:11 - Booking request
+2025-09-26 13:40:11 - Input: 
+2025-09-26 13:40:11 - Action: get_bookings
+2025-09-26 13:40:11 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:40:16 - Booking request
+2025-09-26 13:40:16 - Input: 
+2025-09-26 13:40:16 - Action: get_bookings
+2025-09-26 13:40:16 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:40:21 - Booking request
+2025-09-26 13:40:21 - Input: 
+2025-09-26 13:40:21 - Action: get_bookings
+2025-09-26 13:40:21 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:40:26 - Booking request
+2025-09-26 13:40:26 - Input: 
+2025-09-26 13:40:26 - Action: get_bookings
+2025-09-26 13:40:26 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:40:31 - Booking request
+2025-09-26 13:40:31 - Input: 
+2025-09-26 13:40:31 - Action: get_bookings
+2025-09-26 13:40:31 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:40:36 - Booking request
+2025-09-26 13:40:36 - Input: 
+2025-09-26 13:40:36 - Action: get_bookings
+2025-09-26 13:40:36 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:40:41 - Booking request
+2025-09-26 13:40:41 - Input: 
+2025-09-26 13:40:41 - Action: get_bookings
+2025-09-26 13:40:41 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:40:46 - Booking request
+2025-09-26 13:40:46 - Input: 
+2025-09-26 13:40:46 - Action: get_bookings
+2025-09-26 13:40:46 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:40:51 - Booking request
+2025-09-26 13:40:51 - Input: 
+2025-09-26 13:40:51 - Action: get_bookings
+2025-09-26 13:40:51 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:40:56 - Booking request
+2025-09-26 13:40:56 - Input: 
+2025-09-26 13:40:56 - Action: get_bookings
+2025-09-26 13:40:56 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:41:01 - Booking request
+2025-09-26 13:41:01 - Input: 
+2025-09-26 13:41:01 - Action: get_bookings
+2025-09-26 13:41:01 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:41:06 - Booking request
+2025-09-26 13:41:06 - Input: 
+2025-09-26 13:41:06 - Action: get_bookings
+2025-09-26 13:41:06 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:41:11 - Booking request
+2025-09-26 13:41:11 - Input: 
+2025-09-26 13:41:11 - Action: get_bookings
+2025-09-26 13:41:11 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:41:16 - Booking request
+2025-09-26 13:41:16 - Input: 
+2025-09-26 13:41:16 - Action: get_bookings
+2025-09-26 13:41:16 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:41:21 - Booking request
+2025-09-26 13:41:21 - Input: 
+2025-09-26 13:41:21 - Action: get_bookings
+2025-09-26 13:41:21 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:41:26 - Booking request
+2025-09-26 13:41:26 - Input: 
+2025-09-26 13:41:26 - Action: get_bookings
+2025-09-26 13:41:26 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:41:31 - Booking request
+2025-09-26 13:41:31 - Input: 
+2025-09-26 13:41:31 - Action: get_bookings
+2025-09-26 13:41:31 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:41:36 - Booking request
+2025-09-26 13:41:36 - Input: 
+2025-09-26 13:41:36 - Action: get_bookings
+2025-09-26 13:41:36 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:41:41 - Booking request
+2025-09-26 13:41:41 - Input: 
+2025-09-26 13:41:41 - Action: get_bookings
+2025-09-26 13:41:41 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:41:46 - Booking request
+2025-09-26 13:41:46 - Input: 
+2025-09-26 13:41:46 - Action: get_bookings
+2025-09-26 13:41:46 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:41:51 - Booking request
+2025-09-26 13:41:51 - Input: 
+2025-09-26 13:41:51 - Action: get_bookings
+2025-09-26 13:41:51 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:41:56 - Booking request
+2025-09-26 13:41:56 - Input: 
+2025-09-26 13:41:56 - Action: get_bookings
+2025-09-26 13:41:56 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:42:01 - Booking request
+2025-09-26 13:42:01 - Input: 
+2025-09-26 13:42:01 - Action: get_bookings
+2025-09-26 13:42:01 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:42:06 - Booking request
+2025-09-26 13:42:06 - Input: 
+2025-09-26 13:42:06 - Action: get_bookings
+2025-09-26 13:42:06 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:42:11 - Booking request
+2025-09-26 13:42:11 - Input: 
+2025-09-26 13:42:11 - Action: get_bookings
+2025-09-26 13:42:11 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:42:16 - Booking request
+2025-09-26 13:42:16 - Input: 
+2025-09-26 13:42:16 - Action: get_bookings
+2025-09-26 13:42:16 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:42:21 - Booking request
+2025-09-26 13:42:21 - Input: 
+2025-09-26 13:42:21 - Action: get_bookings
+2025-09-26 13:42:21 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:42:26 - Booking request
+2025-09-26 13:42:26 - Input: 
+2025-09-26 13:42:26 - Action: get_bookings
+2025-09-26 13:42:26 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:42:31 - Booking request
+2025-09-26 13:42:31 - Input: 
+2025-09-26 13:42:31 - Action: get_bookings
+2025-09-26 13:42:31 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:42:36 - Booking request
+2025-09-26 13:42:36 - Input: 
+2025-09-26 13:42:36 - Action: get_bookings
+2025-09-26 13:42:36 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:42:41 - Booking request
+2025-09-26 13:42:41 - Input: 
+2025-09-26 13:42:41 - Action: get_bookings
+2025-09-26 13:42:41 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:43:14 - Booking request
+2025-09-26 13:43:14 - Input: 
+2025-09-26 13:43:14 - Action: get_bookings
+2025-09-26 13:43:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:44:14 - Booking request
+2025-09-26 13:44:14 - Input: 
+2025-09-26 13:44:14 - Action: get_bookings
+2025-09-26 13:44:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:44:54 - Booking request
+2025-09-26 13:44:54 - Input: 
+2025-09-26 13:44:54 - Action: get_bookings
+2025-09-26 13:44:54 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:44:56 - Booking request
+2025-09-26 13:44:56 - Input: 
+2025-09-26 13:44:56 - Action: get_bookings
+2025-09-26 13:44:56 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:45:01 - Booking request
+2025-09-26 13:45:01 - Input: 
+2025-09-26 13:45:01 - Action: get_bookings
+2025-09-26 13:45:01 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:45:06 - Booking request
+2025-09-26 13:45:06 - Input: 
+2025-09-26 13:45:06 - Action: get_bookings
+2025-09-26 13:45:06 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:45:11 - Booking request
+2025-09-26 13:45:11 - Input: 
+2025-09-26 13:45:11 - Action: get_bookings
+2025-09-26 13:45:11 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:45:16 - Booking request
+2025-09-26 13:45:16 - Input: 
+2025-09-26 13:45:16 - Action: get_bookings
+2025-09-26 13:45:16 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:45:21 - Booking request
+2025-09-26 13:45:21 - Input: 
+2025-09-26 13:45:21 - Action: get_bookings
+2025-09-26 13:45:21 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:45:26 - Booking request
+2025-09-26 13:45:26 - Input: 
+2025-09-26 13:45:26 - Action: get_bookings
+2025-09-26 13:45:26 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:45:31 - Booking request
+2025-09-26 13:45:31 - Input: 
+2025-09-26 13:45:31 - Action: get_bookings
+2025-09-26 13:45:31 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:45:36 - Booking request
+2025-09-26 13:45:36 - Input: 
+2025-09-26 13:45:36 - Action: get_bookings
+2025-09-26 13:45:36 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:45:41 - Booking request
+2025-09-26 13:45:41 - Input: 
+2025-09-26 13:45:41 - Action: get_bookings
+2025-09-26 13:45:41 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:45:46 - Booking request
+2025-09-26 13:45:46 - Input: 
+2025-09-26 13:45:46 - Action: get_bookings
+2025-09-26 13:45:46 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:45:51 - Booking request
+2025-09-26 13:45:51 - Input: 
+2025-09-26 13:45:51 - Action: get_bookings
+2025-09-26 13:45:51 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:45:56 - Booking request
+2025-09-26 13:45:56 - Input: 
+2025-09-26 13:45:56 - Action: get_bookings
+2025-09-26 13:45:56 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:46:01 - Booking request
+2025-09-26 13:46:01 - Input: 
+2025-09-26 13:46:01 - Action: get_bookings
+2025-09-26 13:46:01 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:46:06 - Booking request
+2025-09-26 13:46:06 - Input: 
+2025-09-26 13:46:06 - Action: get_bookings
+2025-09-26 13:46:06 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:46:11 - Booking request
+2025-09-26 13:46:11 - Input: 
+2025-09-26 13:46:11 - Action: get_bookings
+2025-09-26 13:46:11 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:46:16 - Booking request
+2025-09-26 13:46:16 - Input: 
+2025-09-26 13:46:16 - Action: get_bookings
+2025-09-26 13:46:16 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:46:21 - Booking request
+2025-09-26 13:46:21 - Input: 
+2025-09-26 13:46:21 - Action: get_bookings
+2025-09-26 13:46:21 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:46:26 - Booking request
+2025-09-26 13:46:26 - Input: 
+2025-09-26 13:46:26 - Action: get_bookings
+2025-09-26 13:46:26 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:46:31 - Booking request
+2025-09-26 13:46:31 - Input: 
+2025-09-26 13:46:31 - Action: get_bookings
+2025-09-26 13:46:31 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:47:14 - Booking request
+2025-09-26 13:47:14 - Input: 
+2025-09-26 13:47:14 - Action: get_bookings
+2025-09-26 13:47:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:47:48 - Booking request
+2025-09-26 13:47:48 - Input: 
+2025-09-26 13:47:48 - Action: get_bookings
+2025-09-26 13:47:48 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:47:51 - Booking request
+2025-09-26 13:47:51 - Input: 
+2025-09-26 13:47:51 - Action: get_bookings
+2025-09-26 13:47:51 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:47:56 - Booking request
+2025-09-26 13:47:56 - Input: 
+2025-09-26 13:47:56 - Action: get_bookings
+2025-09-26 13:47:56 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:48:01 - Booking request
+2025-09-26 13:48:01 - Input: 
+2025-09-26 13:48:01 - Action: get_bookings
+2025-09-26 13:48:01 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:48:06 - Booking request
+2025-09-26 13:48:06 - Input: 
+2025-09-26 13:48:06 - Action: get_bookings
+2025-09-26 13:48:06 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:48:11 - Booking request
+2025-09-26 13:48:11 - Input: 
+2025-09-26 13:48:11 - Action: get_bookings
+2025-09-26 13:48:11 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:48:16 - Booking request
+2025-09-26 13:48:16 - Input: 
+2025-09-26 13:48:16 - Action: get_bookings
+2025-09-26 13:48:16 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:48:21 - Booking request
+2025-09-26 13:48:21 - Input: 
+2025-09-26 13:48:21 - Action: get_bookings
+2025-09-26 13:48:21 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:48:26 - Booking request
+2025-09-26 13:48:26 - Input: 
+2025-09-26 13:48:26 - Action: get_bookings
+2025-09-26 13:48:26 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:48:31 - Booking request
+2025-09-26 13:48:31 - Input: 
+2025-09-26 13:48:31 - Action: get_bookings
+2025-09-26 13:48:31 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:48:36 - Booking request
+2025-09-26 13:48:37 - Input: 
+2025-09-26 13:48:37 - Action: get_bookings
+2025-09-26 13:48:37 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:48:41 - Booking request
+2025-09-26 13:48:41 - Input: 
+2025-09-26 13:48:41 - Action: get_bookings
+2025-09-26 13:48:41 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:48:46 - Booking request
+2025-09-26 13:48:47 - Input: 
+2025-09-26 13:48:47 - Action: get_bookings
+2025-09-26 13:48:47 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:48:51 - Booking request
+2025-09-26 13:48:52 - Input: 
+2025-09-26 13:48:52 - Action: get_bookings
+2025-09-26 13:48:52 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:48:56 - Booking request
+2025-09-26 13:48:56 - Input: 
+2025-09-26 13:48:56 - Action: get_bookings
+2025-09-26 13:48:56 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:49:01 - Booking request
+2025-09-26 13:49:01 - Input: 
+2025-09-26 13:49:01 - Action: get_bookings
+2025-09-26 13:49:01 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:49:07 - Booking request
+2025-09-26 13:49:07 - Input: 
+2025-09-26 13:49:07 - Action: get_bookings
+2025-09-26 13:49:07 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:49:11 - Booking request
+2025-09-26 13:49:11 - Input: 
+2025-09-26 13:49:11 - Action: get_bookings
+2025-09-26 13:49:11 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:49:17 - Booking request
+2025-09-26 13:49:17 - Input: 
+2025-09-26 13:49:17 - Action: get_bookings
+2025-09-26 13:49:17 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:49:21 - Booking request
+2025-09-26 13:49:21 - Input: 
+2025-09-26 13:49:21 - Action: get_bookings
+2025-09-26 13:49:21 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:49:26 - Booking request
+2025-09-26 13:49:26 - Input: 
+2025-09-26 13:49:26 - Action: get_bookings
+2025-09-26 13:49:26 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:49:31 - Booking request
+2025-09-26 13:49:31 - Input: 
+2025-09-26 13:49:31 - Action: get_bookings
+2025-09-26 13:49:31 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:49:36 - Booking request
+2025-09-26 13:49:36 - Input: 
+2025-09-26 13:49:36 - Action: get_bookings
+2025-09-26 13:49:36 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:49:41 - Booking request
+2025-09-26 13:49:41 - Input: 
+2025-09-26 13:49:41 - Action: get_bookings
+2025-09-26 13:49:41 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:49:46 - Booking request
+2025-09-26 13:49:46 - Input: 
+2025-09-26 13:49:46 - Action: get_bookings
+2025-09-26 13:49:46 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:49:51 - Booking request
+2025-09-26 13:49:51 - Input: 
+2025-09-26 13:49:51 - Action: get_bookings
+2025-09-26 13:49:51 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:49:56 - Booking request
+2025-09-26 13:49:56 - Input: 
+2025-09-26 13:49:56 - Action: get_bookings
+2025-09-26 13:49:56 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:50:01 - Booking request
+2025-09-26 13:50:01 - Input: 
+2025-09-26 13:50:01 - Action: get_bookings
+2025-09-26 13:50:01 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:50:06 - Booking request
+2025-09-26 13:50:06 - Input: 
+2025-09-26 13:50:06 - Action: get_bookings
+2025-09-26 13:50:06 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:50:11 - Booking request
+2025-09-26 13:50:11 - Input: 
+2025-09-26 13:50:11 - Action: get_bookings
+2025-09-26 13:50:11 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:50:16 - Booking request
+2025-09-26 13:50:17 - Input: 
+2025-09-26 13:50:17 - Action: get_bookings
+2025-09-26 13:50:17 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:50:21 - Booking request
+2025-09-26 13:50:21 - Input: 
+2025-09-26 13:50:21 - Action: get_bookings
+2025-09-26 13:50:21 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:50:26 - Booking request
+2025-09-26 13:50:26 - Input: 
+2025-09-26 13:50:26 - Action: get_bookings
+2025-09-26 13:50:26 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:50:31 - Booking request
+2025-09-26 13:50:31 - Input: 
+2025-09-26 13:50:31 - Action: get_bookings
+2025-09-26 13:50:31 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:50:36 - Booking request
+2025-09-26 13:50:36 - Input: 
+2025-09-26 13:50:36 - Action: get_bookings
+2025-09-26 13:50:36 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:50:41 - Booking request
+2025-09-26 13:50:41 - Input: 
+2025-09-26 13:50:41 - Action: get_bookings
+2025-09-26 13:50:41 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:50:46 - Booking request
+2025-09-26 13:50:46 - Input: 
+2025-09-26 13:50:46 - Action: get_bookings
+2025-09-26 13:50:46 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:50:51 - Booking request
+2025-09-26 13:50:51 - Input: 
+2025-09-26 13:50:51 - Action: get_bookings
+2025-09-26 13:50:51 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:50:56 - Booking request
+2025-09-26 13:50:56 - Input: 
+2025-09-26 13:50:56 - Action: get_bookings
+2025-09-26 13:50:56 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:51:01 - Booking request
+2025-09-26 13:51:01 - Input: 
+2025-09-26 13:51:01 - Action: get_bookings
+2025-09-26 13:51:01 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:51:06 - Booking request
+2025-09-26 13:51:06 - Input: 
+2025-09-26 13:51:06 - Action: get_bookings
+2025-09-26 13:51:06 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:51:11 - Booking request
+2025-09-26 13:51:11 - Input: 
+2025-09-26 13:51:11 - Action: get_bookings
+2025-09-26 13:51:11 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:51:16 - Booking request
+2025-09-26 13:51:16 - Input: 
+2025-09-26 13:51:16 - Action: get_bookings
+2025-09-26 13:51:16 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:51:21 - Booking request
+2025-09-26 13:51:21 - Input: 
+2025-09-26 13:51:21 - Action: get_bookings
+2025-09-26 13:51:21 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:51:26 - Booking request
+2025-09-26 13:51:26 - Input: 
+2025-09-26 13:51:26 - Action: get_bookings
+2025-09-26 13:51:26 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:51:31 - Booking request
+2025-09-26 13:51:31 - Input: 
+2025-09-26 13:51:31 - Action: get_bookings
+2025-09-26 13:51:31 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:51:36 - Booking request
+2025-09-26 13:51:36 - Input: 
+2025-09-26 13:51:36 - Action: get_bookings
+2025-09-26 13:51:36 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:51:41 - Booking request
+2025-09-26 13:51:41 - Input: 
+2025-09-26 13:51:41 - Action: get_bookings
+2025-09-26 13:51:41 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:51:46 - Booking request
+2025-09-26 13:51:46 - Input: 
+2025-09-26 13:51:46 - Action: get_bookings
+2025-09-26 13:51:46 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:51:51 - Booking request
+2025-09-26 13:51:51 - Input: 
+2025-09-26 13:51:51 - Action: get_bookings
+2025-09-26 13:51:51 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:51:56 - Booking request
+2025-09-26 13:51:56 - Input: 
+2025-09-26 13:51:56 - Action: get_bookings
+2025-09-26 13:51:56 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:52:01 - Booking request
+2025-09-26 13:52:01 - Input: 
+2025-09-26 13:52:01 - Action: get_bookings
+2025-09-26 13:52:01 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:52:06 - Booking request
+2025-09-26 13:52:06 - Input: 
+2025-09-26 13:52:06 - Action: get_bookings
+2025-09-26 13:52:06 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:52:11 - Booking request
+2025-09-26 13:52:11 - Input: 
+2025-09-26 13:52:11 - Action: get_bookings
+2025-09-26 13:52:11 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:52:16 - Booking request
+2025-09-26 13:52:16 - Input: 
+2025-09-26 13:52:16 - Action: get_bookings
+2025-09-26 13:52:16 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:52:21 - Booking request
+2025-09-26 13:52:21 - Input: 
+2025-09-26 13:52:21 - Action: get_bookings
+2025-09-26 13:52:21 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:52:26 - Booking request
+2025-09-26 13:52:26 - Input: 
+2025-09-26 13:52:26 - Action: get_bookings
+2025-09-26 13:52:26 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:52:31 - Booking request
+2025-09-26 13:52:31 - Input: 
+2025-09-26 13:52:31 - Action: get_bookings
+2025-09-26 13:52:31 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:53:14 - Booking request
+2025-09-26 13:53:14 - Input: 
+2025-09-26 13:53:14 - Action: get_bookings
+2025-09-26 13:53:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:54:14 - Booking request
+2025-09-26 13:54:14 - Input: 
+2025-09-26 13:54:14 - Action: get_bookings
+2025-09-26 13:54:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:55:14 - Booking request
+2025-09-26 13:55:14 - Input: 
+2025-09-26 13:55:14 - Action: get_bookings
+2025-09-26 13:55:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:56:14 - Booking request
+2025-09-26 13:56:14 - Input: 
+2025-09-26 13:56:14 - Action: get_bookings
+2025-09-26 13:56:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:57:14 - Booking request
+2025-09-26 13:57:14 - Input: 
+2025-09-26 13:57:14 - Action: get_bookings
+2025-09-26 13:57:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:58:14 - Booking request
+2025-09-26 13:58:14 - Input: 
+2025-09-26 13:58:14 - Action: get_bookings
+2025-09-26 13:58:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:59:08 - Booking request
+2025-09-26 13:59:08 - Input: 
+2025-09-26 13:59:08 - Action: get_bookings
+2025-09-26 13:59:08 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:59:13 - Booking request
+2025-09-26 13:59:13 - Input: 
+2025-09-26 13:59:13 - Action: get_bookings
+2025-09-26 13:59:13 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:59:15 - Booking request
+2025-09-26 13:59:15 - Input: 
+2025-09-26 13:59:15 - Action: get_bookings
+2025-09-26 13:59:15 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:59:18 - Booking request
+2025-09-26 13:59:18 - Input: 
+2025-09-26 13:59:18 - Action: get_bookings
+2025-09-26 13:59:18 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:59:23 - Booking request
+2025-09-26 13:59:23 - Input: 
+2025-09-26 13:59:23 - Action: get_bookings
+2025-09-26 13:59:23 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 13:59:28 - Booking request
+2025-09-26 13:59:28 - Input: 
+2025-09-26 13:59:28 - Action: get_bookings
+2025-09-26 13:59:28 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:00:14 - Booking request
+2025-09-26 14:00:14 - Input: 
+2025-09-26 14:00:14 - Action: get_bookings
+2025-09-26 14:00:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:00:56 - Booking request
+2025-09-26 14:00:56 - Input: 
+2025-09-26 14:00:56 - Action: get_bookings
+2025-09-26 14:00:56 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:01:01 - Booking request
+2025-09-26 14:01:01 - Input: 
+2025-09-26 14:01:01 - Action: get_bookings
+2025-09-26 14:01:01 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:01:06 - Booking request
+2025-09-26 14:01:06 - Input: 
+2025-09-26 14:01:06 - Action: get_bookings
+2025-09-26 14:01:06 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:01:11 - Booking request
+2025-09-26 14:01:11 - Input: 
+2025-09-26 14:01:11 - Action: get_bookings
+2025-09-26 14:01:11 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:01:16 - Booking request
+2025-09-26 14:01:16 - Input: 
+2025-09-26 14:01:16 - Action: get_bookings
+2025-09-26 14:01:16 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:01:21 - Booking request
+2025-09-26 14:01:21 - Input: 
+2025-09-26 14:01:21 - Action: get_bookings
+2025-09-26 14:01:21 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:01:26 - Booking request
+2025-09-26 14:01:26 - Input: 
+2025-09-26 14:01:26 - Action: get_bookings
+2025-09-26 14:01:26 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:01:31 - Booking request
+2025-09-26 14:01:31 - Input: 
+2025-09-26 14:01:31 - Action: get_bookings
+2025-09-26 14:01:31 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:01:36 - Booking request
+2025-09-26 14:01:36 - Input: 
+2025-09-26 14:01:36 - Action: get_bookings
+2025-09-26 14:01:36 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:01:41 - Booking request
+2025-09-26 14:01:41 - Input: 
+2025-09-26 14:01:41 - Action: get_bookings
+2025-09-26 14:01:41 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:01:46 - Booking request
+2025-09-26 14:01:46 - Input: 
+2025-09-26 14:01:46 - Action: get_bookings
+2025-09-26 14:01:46 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:01:51 - Booking request
+2025-09-26 14:01:51 - Input: 
+2025-09-26 14:01:51 - Action: get_bookings
+2025-09-26 14:01:51 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:01:56 - Booking request
+2025-09-26 14:01:56 - Input: 
+2025-09-26 14:01:56 - Action: get_bookings
+2025-09-26 14:01:56 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:02:01 - Booking request
+2025-09-26 14:02:01 - Input: 
+2025-09-26 14:02:01 - Action: get_bookings
+2025-09-26 14:02:01 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:02:06 - Booking request
+2025-09-26 14:02:06 - Input: 
+2025-09-26 14:02:06 - Action: get_bookings
+2025-09-26 14:02:06 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:02:11 - Booking request
+2025-09-26 14:02:11 - Input: 
+2025-09-26 14:02:11 - Action: get_bookings
+2025-09-26 14:02:11 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:02:16 - Booking request
+2025-09-26 14:02:16 - Input: 
+2025-09-26 14:02:16 - Action: get_bookings
+2025-09-26 14:02:16 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:02:21 - Booking request
+2025-09-26 14:02:21 - Input: 
+2025-09-26 14:02:21 - Action: get_bookings
+2025-09-26 14:02:21 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:02:26 - Booking request
+2025-09-26 14:02:26 - Input: 
+2025-09-26 14:02:26 - Action: get_bookings
+2025-09-26 14:02:26 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:02:31 - Booking request
+2025-09-26 14:02:31 - Input: 
+2025-09-26 14:02:31 - Action: get_bookings
+2025-09-26 14:02:31 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:02:36 - Booking request
+2025-09-26 14:02:36 - Input: 
+2025-09-26 14:02:36 - Action: get_bookings
+2025-09-26 14:02:36 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:02:41 - Booking request
+2025-09-26 14:02:41 - Input: 
+2025-09-26 14:02:41 - Action: get_bookings
+2025-09-26 14:02:41 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:02:46 - Booking request
+2025-09-26 14:02:46 - Input: 
+2025-09-26 14:02:46 - Action: get_bookings
+2025-09-26 14:02:46 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:02:51 - Booking request
+2025-09-26 14:02:51 - Input: 
+2025-09-26 14:02:51 - Action: get_bookings
+2025-09-26 14:02:51 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:02:56 - Booking request
+2025-09-26 14:02:56 - Input: 
+2025-09-26 14:02:56 - Action: get_bookings
+2025-09-26 14:02:56 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:03:14 - Booking request
+2025-09-26 14:03:14 - Input: 
+2025-09-26 14:03:14 - Action: get_bookings
+2025-09-26 14:03:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:04:14 - Booking request
+2025-09-26 14:04:14 - Input: 
+2025-09-26 14:04:14 - Action: get_bookings
+2025-09-26 14:04:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:05:14 - Booking request
+2025-09-26 14:05:14 - Input: 
+2025-09-26 14:05:14 - Action: get_bookings
+2025-09-26 14:05:14 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:05:43 - Booking request
+2025-09-26 14:05:43 - Input: 
+2025-09-26 14:05:43 - Action: get_bookings
+2025-09-26 14:05:43 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:05:46 - Booking request
+2025-09-26 14:05:46 - Input: 
+2025-09-26 14:05:46 - Action: get_bookings
+2025-09-26 14:05:46 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:05:51 - Booking request
+2025-09-26 14:05:51 - Input: 
+2025-09-26 14:05:51 - Action: get_bookings
+2025-09-26 14:05:51 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:05:56 - Booking request
+2025-09-26 14:05:56 - Input: 
+2025-09-26 14:05:56 - Action: get_bookings
+2025-09-26 14:05:56 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:06:01 - Booking request
+2025-09-26 14:06:01 - Input: 
+2025-09-26 14:06:01 - Action: get_bookings
+2025-09-26 14:06:01 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:06:06 - Booking request
+2025-09-26 14:06:06 - Input: 
+2025-09-26 14:06:06 - Action: get_bookings
+2025-09-26 14:06:06 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:06:11 - Booking request
+2025-09-26 14:06:11 - Input: 
+2025-09-26 14:06:11 - Action: get_bookings
+2025-09-26 14:06:11 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:06:16 - Booking request
+2025-09-26 14:06:16 - Input: 
+2025-09-26 14:06:16 - Action: get_bookings
+2025-09-26 14:06:16 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:06:21 - Booking request
+2025-09-26 14:06:21 - Input: 
+2025-09-26 14:06:21 - Action: get_bookings
+2025-09-26 14:06:21 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:06:26 - Booking request
+2025-09-26 14:06:26 - Input: 
+2025-09-26 14:06:26 - Action: get_bookings
+2025-09-26 14:06:26 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:06:31 - Booking request
+2025-09-26 14:06:31 - Input: 
+2025-09-26 14:06:31 - Action: get_bookings
+2025-09-26 14:06:31 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:06:36 - Booking request
+2025-09-26 14:06:36 - Input: 
+2025-09-26 14:06:36 - Action: get_bookings
+2025-09-26 14:06:36 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:06:41 - Booking request
+2025-09-26 14:06:41 - Input: 
+2025-09-26 14:06:41 - Action: get_bookings
+2025-09-26 14:06:41 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:06:46 - Booking request
+2025-09-26 14:06:46 - Input: 
+2025-09-26 14:06:46 - Action: get_bookings
+2025-09-26 14:06:46 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:06:51 - Booking request
+2025-09-26 14:06:51 - Input: 
+2025-09-26 14:06:51 - Action: get_bookings
+2025-09-26 14:06:51 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:06:56 - Booking request
+2025-09-26 14:06:56 - Input: 
+2025-09-26 14:06:56 - Action: get_bookings
+2025-09-26 14:06:56 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
+2025-09-26 14:07:01 - Booking request
+2025-09-26 14:07:01 - Input: 
+2025-09-26 14:07:01 - Action: get_bookings
+2025-09-26 14:07:01 - Response: {"success":true,"bookings":{"2025-09-26":{"10:00":{"\u0421\u0442\u043e\u043b\u0438\u043a 1":null,"\u0421\u0442\u043e\u043b\u0438\u043a 2":null,"\u0421\u0442\u043e\u043b\u0438\u043a 3":null,"\u0421\u04
