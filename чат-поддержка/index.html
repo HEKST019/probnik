@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Чат поддержка — Столовая</title>
+    <link rel="stylesheet" href="/style.css">
+    <link rel="stylesheet" href="/styleMMMM.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Roboto+Slab:wght@400;700&display=swap" rel="stylesheet">
+
+</head>
+<body class="site-body">
+    <div class="site-wrapper">
+        <header class="site-header">
+            <div class="header-container">
+                <div class="site-logo"><h3><a href="/">Столовая</a></h3></div>
+                <nav class="main-nav">
+                    <ul>
+                        <li><a href="/shop/">Магазин</a></li>
+                        <li><a href="/новости-и-акции/">Новости</a></li>
+                        <li><a href="/акции/">Акции</a></li>
+                        <li><a href="/доставка/">Доставка</a></li>
+                        <li><a href="/контакты/">Контакты</a></li>
+                        <li><a href="/о-компании/">О компании</a></li>
+                        <li><a href="/my-account/">Мой аккаунт</a></li>
+                        <li><a href="/cart/">Корзина</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+
+        <div class="page-header">
+            <div class="site-wrapper">
+                <div class="breadcrumbs"><a href="/">Главная</a> > Чат поддержка</div>
+                <h1 class="page-title">Чат поддержка</h1>
+            </div>
+        </div>
+
+        <main class="main-content">
+            <div class="site-wrapper">
+                <div class="content-section">
+                  <div class="chat-intro">
+                      <p>Наши администраторы всегда готовы вам помочь разобраться в проблемных вопросах.</p>
+                      <p>Не стесняйтесь задавайте то что вас интересует.</p>
+                  </div>
+
+                  <div class="chat-container">
+                      <div id="flask-chat-container">
+                          <div id="chat-window">
+                              <div id="chat-messages"></div>
+                          </div>
+                          <div id="chat-controls">
+                              <input type="text" id="message-input" placeholder="Напишите сообщение..." autocomplete="off">
+                              <button id="send-btn">Отправить</button>
+                          </div>
+                      </div>
+                  </div>
+                </div>
+            </div>
+        </main>
+
+        <footer class="site-footer">
+            <div class="site-wrapper">
+                <div class="footer-content">
+                    <div class="site-logo"><h3><a href="/">Столовая</a></h3></div>
+                    <p class="footer-text">© 2025 Столовая. Дёмин Александр Николаевич. Все права защищены.</p>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <script>
+        // Упрощенный чат для PHP 5.6
+        function getCookie(name) {
+            const value = '; ' + document.cookie;
+            const parts = value.split('; ' + name + '=');
+            if (parts.length === 2) return parts.pop().split(';').shift();
+            return null;
+        }
+
+        function getUser() {
+            const userName = getCookie('user');
+            if (userName === 'admin1') return { id: 'admin1', name: 'Администратор', role: 'admin' };
+            if (userName === 'manager1') return { id: 'manager1', name: 'Менеджер', role: 'support' };
+            if (userName) return { id: 'user_' + userName, name: userName, role: 'user' };
+
+            return {
+                id: 'guest_' + Math.random().toString(36).slice(2, 11),
+                name: 'Гость',
+                role: 'guest'
+            };
+        }
+
+        class SimpleChat {
+            constructor() {
+                this.user = getUser();
+                this.lastId = 0;
+            }
+
+            async init() {
+                await this.loadHistory();
+                this.startPolling();
+                this.setupEvents();
+                this.addSystemMsg('Добро пожаловать в чат!');
+            }
+
+            async loadHistory() {
+                try {
+                    const response = await this.request('get_messages');
+                    if (response.success) {
+                        response.messages.forEach(msg => this.showMsg(msg));
+                        if (response.messages.length > 0) {
+                            this.lastId = Math.max.apply(null, response.messages.map(function(m) { return m.id || 0; }));
+                        }
+                    }
+                } catch (e) {
+                    console.error('Load error:', e);
+                }
+            }
+
+            async sendMessage(text) {
+                if (!text.trim()) return;
+
+                try {
+                    const response = await this.request('send_message', {
+                        text: text,
+                        user_id: this.user.id,
+                        user_name: this.user.name,
+                        user_role: this.user.role
+                    });
+
+                    if (response.success) {
+                        this.showMsg(response.message);
+                        this.lastId = response.message.id;
+                    }
+                } catch (e) {
+                    console.error('Send error:', e);
+                    this.addSystemMsg('Ошибка отправки');
+                }
+            }
+
+            async checkNew() {
+                try {
+                    const response = await this.request('get_new_messages', {
+                        last_id: this.lastId
+                    });
+
+                    if (response.success && response.messages.length > 0) {
+                        response.messages.forEach(msg => {
+                            if (msg.user_id !== this.user.id) {
+                                this.showMsg(msg);
+                            }
+                            this.lastId = Math.max(this.lastId, msg.id || 0);
+                        });
+                    }
+                } catch (e) {
+                    console.error('Check error:', e);
+                }
+            }
+
+            async request(action, data) {
+                // Используем FormData для совместимости
+                const form = new FormData();
+                form.append('action', action);
+                form.append('data', JSON.stringify(data || {}));
+
+                const response = await fetch('chat_server.php', {
+                    method: 'POST',
+                    body: form
+                });
+
+                if (!response.ok) {
+                    throw new Error('HTTP ' + response.status);
+                }
+
+                return await response.json();
+            }
+
+            showMsg(msg) {
+                const chat = document.getElementById('chat-messages');
+                if (!chat) return;
+
+                const div = document.createElement('div');
+                let type = 'received';
+
+                if (msg.user_id === this.user.id) type = 'sent';
+                else if (msg.user_id === 'manager1') type = 'support';
+                else if (msg.user_id === 'admin1') type = 'admin';
+
+                div.className = 'message ' + type;
+                div.innerHTML = '<strong>' + this.escape(msg.user_name) + '</strong>' +
+                               '<span style="float:right;font-size:12px;opacity:0.7">' + (msg.time || '') + '</span>' +
+                               '<div>' + this.escape(msg.text) + '</div>';
+
+                chat.appendChild(div);
+                chat.scrollTop = chat.scrollHeight;
+            }
+
+            addSystemMsg(text) {
+                const chat = document.getElementById('chat-messages');
+                if (!chat) return;
+
+                const div = document.createElement('div');
+                div.className = 'message system';
+                div.innerHTML = '<div>' + text + '</div>';
+                chat.appendChild(div);
+                chat.scrollTop = chat.scrollHeight;
+            }
+
+            escape(text) {
+                return text.replace(/</g, '&lt;').replace(/>/g, '&gt;');
+            }
+
+            startPolling() {
+                setInterval(() => this.checkNew(), 3000);
+            }
+
+            setupEvents() {
+                const input = document.getElementById('message-input');
+                const btn = document.getElementById('send-btn');
+
+                if (!input || !btn) return;
+
+                const send = () => {
+                    this.sendMessage(input.value);
+                    input.value = '';
+                };
+
+                btn.onclick = send;
+                input.onkeypress = function(e) {
+                    if (e.key === 'Enter') send();
+                };
+
+                setTimeout(() => input.focus(), 500);
+            }
+        }
+
+        // Запуск
+        document.addEventListener('DOMContentLoaded', function() {
+            window.chat = new SimpleChat();
+            window.chat.init();
+        });
+    </script>
+</body>
+</html>
